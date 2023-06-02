@@ -19,7 +19,7 @@ public class arraysSaltoLongitud {
 		 * listado por número de dorsal. La opción 3 mostrará un listado de las marcas
 		 * de 2020, de mayor a menor. Tras procesar cada opción, se debe mostrar de
 		 * nuevo el menú inicial, hasta que se seleccione la opción 4, que terminará el
-		 * programa
+		 * programaa
 		 */
 
 		int opcion = 0;
